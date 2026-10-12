@@ -1,7 +1,8 @@
 # Power BI Sales Dashboard 
 
 
-![Dashboard Preview](dashboard.png)
+<img width="1486" height="858" alt="dashboard" src="https://github.com/user-attachments/assets/8001972f-5302-4ece-bf31-cdb71863ae5b" />
+
 
 ## Overview
 
